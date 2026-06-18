@@ -43,6 +43,8 @@ This repository serves as a portfolio of all internship projects completed durin
 
 ---
 
-## Author
+## Intern Information
 
-Samaa Shafqat
+Intern: Samaa Shafqat
+
+Internship: DevelopersHub Corporation — Data Science & Analytics Internship
